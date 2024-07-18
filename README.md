@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deanher
 - 👀 I’m interested in all things dotnet, design patterns, and many other random things
-- 🌱 I’m currently learning Xamarin, GraphQL
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/dean-herringer) or checkout my [personal website](https://dherringer.com)
 
 <!---
