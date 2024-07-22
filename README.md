@@ -8,8 +8,8 @@
 
 -   👶 🇿🇦 ✈️ :de: 🏠
 -   💼 Team Lead @ MIFCOM
--   👀 I’m interested in many things dotnet, design patterns, and many other random things
--   🌱 I’m currently learning Flutter
+-   👀 I’m interested in many things, including but not limited to: dotnet, flutter, software architecture, software infrastructure, devops, platform engineering, design patterns, watches, and many other random things
+-   🌱 I’m currently learning Flutter + Dart and I am always learning C#
 
 ### 📫 Reaching me
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 My Stats
+### 🧮 My Stats
 
 [![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&langs_count=6&theme=nord&bg_color=0000&layout=compact&hide=swift,cmake,c%2B%2B&card_width=1000)](https://github.com/deanher/github-readme-stats)
