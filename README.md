@@ -1,12 +1,62 @@
+<header>
+  <div style="text-align: center;">
+    <h1>👋 Hi, I’m Dean </h1>
+  </div>
+</header>
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJyOG5qc203OXl6MWVvNHY2eWhrczV3a3c1d2Qyanc3c3VqZjRhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" style="border-radius: 50%;"/>
+### 🤦‍♂️ About Me
+
+-   👶 🇿🇦 ✈️ :de: 🏠
+-   💼 Team Lead @ MIFCOM
+-   👀 I’m interested in many things dotnet, design patterns, and many other random things
+-   🌱 I’m currently learning Flutter
+
+### 📫 Reaching me
+
+<!--<div align="center">
+  <a href="https://linkedin.com/in/dean-herringer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dherringer.com">
+    <img src="https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black"/>
+  </a>
+</div>-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer)
+[![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com)
+
+---
+
+### 📊 My Stats
+
+[![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&langs_count=6&theme=nord&bg_color=0000&layout=compact&hide=swift,cmake,c%2B%2B&card_width=1000)](https://github.com/deanher/github-readme-stats)
+[![GitHub Streak](https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&card_width=1000)](https://github.com/deanher/github-readme-stats)  
+
+<!--
+<div align="center">
+  <aside>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=transparent" />
+    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage" />
+    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app//api/top-langs/?username=deanher&theme=transparent&langs_count=8&layout=compact&hide=swift,cmake,c%2B%2B" />
+  </aside>
 </div>
 
-- 👋 Hi, I’m @deanher
-- 👀 I’m interested in all things dotnet, design patterns, and many other random things
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me [LinkedIn](https://linkedin.com/in/dean-herringer) or checkout my [personal website](https://dherringer.com)
+<p align="center">
+  <img
+    src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord" />
+</p>
+
+### 👨‍💻 Top Languages :
+
+<p align="center">
+    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs/?username=deanher&theme=nord&langs_count=8&layout=compact&hide=swift,cmake,c%2B%2B" />
+</p>
+
+---
+
+### ✍️ Blog Posts
+-->
 
 <!---
 deanher/deanher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
