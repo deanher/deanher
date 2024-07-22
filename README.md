@@ -8,7 +8,8 @@
 
 -   👶 🇿🇦 ✈️ :de: 🏠
 -   💼 Team Lead @ MIFCOM
--   👀 I’m interested in many things, including but not limited to: dotnet, flutter, software architecture, software infrastructure, devops, platform engineering, design patterns, watches, and many other random things
+-   👀 I’m interested in many things, including but not limited to: software architecture and patterns, devops, platform engineering, watches, and many other random things
+-   😶‍🌫️ When I'm not coding, I'm probably breaking my PC or my homelab (again) or I'm just staring at the ceiling while listening to music
 -   🌱 I’m currently learning Flutter + Dart and I am always learning C#
 
 ### 📫 Reaching me
