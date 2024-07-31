@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues" />
 </a>
 <a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B" />
+  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=10" />
 </a>
 <!--
 [![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B)](https://github.com/deanher/github-readme-stats)
