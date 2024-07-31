@@ -14,15 +14,6 @@
 
 ### 📫 Reaching me
 
-<!--<div align="center">
-  <a href="https://linkedin.com/in/dean-herringer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://dherringer.com">
-    <img src="https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black"/>
-  </a>
-</div>-->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer)
 [![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com)
 
@@ -37,36 +28,10 @@
 <a href="https://github.com/deanher/github-readme-stats">
   <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=6&hide_border=true" />
 </a>
-<!--
-[![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B)](https://github.com/deanher/github-readme-stats)
-[![GitHub Streak](https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&card_width=1000)](https://github.com/deanher/github-readme-stats)  
--->
-<!--
-<div align="center">
-  <aside>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=transparent" />
-    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage" />
-    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app//api/top-langs/?username=deanher&theme=transparent&langs_count=8&layout=compact&hide=swift,cmake,c%2B%2B" />
-  </aside>
-</div>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord" />
-</p>
-
-### 👨‍💻 Top Languages :
-
-<p align="center">
-    <img src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs/?username=deanher&theme=nord&langs_count=8&layout=compact&hide=swift,cmake,c%2B%2B" />
-</p>
-
----
-
-### ✍️ Blog Posts
--->
 
 <!---
+### ✍️ Blog Posts
+
 deanher/deanher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
