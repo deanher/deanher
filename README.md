@@ -22,11 +22,12 @@
 ### 🧮 My Stats
 
 [![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=aura-dark&card_width=1000&mode=weekly&background=0000&fire=ed5007)](https://git.io/streak-stats)
+
 <a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=aura-dark&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=aura_dark&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&hide_border=true" />
 </a>
 <a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=aura-dark&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=6&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=aura_dark&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=6&hide_border=true" />
 </a>
 
 <!---
