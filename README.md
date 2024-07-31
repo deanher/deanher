@@ -31,7 +31,7 @@
 ### 🧮 My Stats
 
 [![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&langs_count=20&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&card_width=1000)](https://github.com/deanher/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&langs_count=10&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&card_width=1000)](https://github.com/deanher/github-readme-stats)
 [![GitHub Streak](https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&card_width=1000)](https://github.com/deanher/github-readme-stats)  
 
 <!--
