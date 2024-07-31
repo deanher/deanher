@@ -32,10 +32,10 @@
 
 [![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000)](https://git.io/streak-stats)
 <a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues" />
+  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&card_width=600" />
 </a>
 <a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B" />
+  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&card_width=400" />
 </a>
 <!--
 [![Top Langs](https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=nord&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B)](https://github.com/deanher/github-readme-stats)
