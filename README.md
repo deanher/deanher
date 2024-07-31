@@ -1,3 +1,4 @@
+mardown:kramdown
 <header>
   <div style="text-align: center;">
     <h1>👋 Hi, I’m Dean </h1>
@@ -23,8 +24,8 @@
   </a>
 </div>-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer){:target="_blank"}
-[![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer){:target="_blank" rel="noopener"}
+[![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com){:target="_blank" rel="noopener"}
 
 ---
 
