@@ -23,8 +23,8 @@
   </a>
 </div>-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer)
-[![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-herringer){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/dherringer-white?logo=vercel&logoColor=black)](https://dherringer.com){:target="_blank"}
 
 ---
 
