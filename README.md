@@ -21,7 +21,7 @@
 
 ### 🧮 My Stats
 
-[![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000)](https://git.io/streak-stats)
+[![Dean's GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=deanher&theme=nord&card_width=1000&mode=weekly&background=0000&fire=orange)](https://git.io/streak-stats)
 <a href="https://github.com/deanher/github-readme-stats">
   <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=nord&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&hide_border=true" />
 </a>
