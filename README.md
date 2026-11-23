@@ -21,13 +21,13 @@
 
 ### 🧮 My Stats
 
-[![Dean's GitHub Stats](http://github-readme-streak-stats-dean-herringers-projects.vercel.app?user=deanher&theme=rose-pine&card_width=1000&mode=weekly&background=0000&fire=ff4b33&ring=ba4750)](https://git.io/streak-stats)
+[![Dean's GitHub Stats](http://https://gh-stats.dherringer.com?user=deanher&theme=rose-pine&card_width=1000&mode=weekly&background=0000&fire=ff4b33&ring=ba4750)](https://git.io/streak-stats)
 
-<a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api?username=deanher&show_icons=true&theme=rose_pine&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&hide_border=true" />
+<a href="https://github.com/deanher/github-stats-extended">
+  <img align="center" src="https://https://gh-stats.dherringer.com/api?username=deanher&show_icons=true&theme=rose_pine&bg_color=0000&show=reviews,prs_merged,prs_merged_percentage&hide=issues&hide_border=true" />
 </a>
-<a href="https://github.com/deanher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dean-herringers-projects.vercel.app/api/top-langs?username=deanher&theme=rose_pine&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=6&hide_border=true" />
+<a href="https://github.com/deanher/github-stats-extended">
+  <img align="center" src="https://gh-stats.dherringer.com/api/top-langs?username=deanher&theme=rose_pine&bg_color=0000&layout=donut&hide=swift,cmake,c%2B%2B&langs_count=6&hide_border=true" />
 </a>
 
 <!---
